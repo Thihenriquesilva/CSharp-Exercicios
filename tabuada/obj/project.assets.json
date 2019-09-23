@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47490086809\\Documents\\Exercicios\\tabuada\\tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\tabuada\\tabuada.csproj",
       "projectName": "tabuada",
-      "projectPath": "C:\\Users\\47490086809\\Documents\\Exercicios\\tabuada\\tabuada.csproj",
+      "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\tabuada\\tabuada.csproj",
       "packagesPath": "C:\\Users\\47490086809\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47490086809\\Documents\\Exercicios\\tabuada\\obj\\",
+      "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
