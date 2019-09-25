@@ -1,0 +1,11 @@
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.AssemblyInfo.cs
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\bin\Debug\netcoreapp2.2\triangulos.deps.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\bin\Debug\netcoreapp2.2\triangulos.runtimeconfig.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\bin\Debug\netcoreapp2.2\triangulos.runtimeconfig.dev.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\bin\Debug\netcoreapp2.2\triangulos.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\bin\Debug\netcoreapp2.2\triangulos.pdb
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\triangulos\obj\Debug\netcoreapp2.2\triangulos.pdb

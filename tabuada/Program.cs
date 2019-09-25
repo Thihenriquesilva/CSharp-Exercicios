@@ -12,7 +12,7 @@ namespace tabuada
                 for(int d =1; d<=10; d++){
                 Console.Write($"{c,2} * {d,2} = {c*d,4}");
                 }
-            Console.WriteLine();
+                 Console.WriteLine();
             }
             
             
@@ -20,3 +20,5 @@ namespace tabuada
         }
     }
 }
+
+
