@@ -15,11 +15,10 @@ namespace matriz
             lista[2] = "da";
             lista[3] = "Silva";
 
-            for (int i=0; i<5; i++){
+            for (int i=0; i<4; i++){
                 Console.Write(lista[i]);
-                Console.Write("");
+                Console.Write(" ");
             }
-            Console.ReadKey();
         }
     }
 }
