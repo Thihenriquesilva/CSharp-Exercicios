@@ -9,3 +9,13 @@ C:\Users\47490086809\Documents\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\
 C:\Users\47490086809\Documents\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.AssemblyInfo.cs
 C:\Users\47490086809\Documents\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.dll
 C:\Users\47490086809\Documents\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.pdb
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\bin\Debug\netcoreapp2.2\matriz.deps.json
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\bin\Debug\netcoreapp2.2\matriz.runtimeconfig.json
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\bin\Debug\netcoreapp2.2\matriz.runtimeconfig.dev.json
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\bin\Debug\netcoreapp2.2\matriz.dll
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\bin\Debug\netcoreapp2.2\matriz.pdb
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.csprojAssemblyReference.cache
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.AssemblyInfoInputs.cache
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.AssemblyInfo.cs
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.dll
+C:\Users\thi_s\Documents\C#\CSharp-Exercicios\matriz\obj\Debug\netcoreapp2.2\matriz.pdb
