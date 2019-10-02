@@ -19,17 +19,8 @@ namespace MateODragao {
                 switch (opcaoJogador) {
                     case "1":
                         Console.Clear ();
-                        Guerreiro guerreiro = new Guerreiro ();
-                        guerreiro.Nome = "Vaelin";
-                        guerreiro.Sobrenome = "Galahad";
-                        guerreiro.CidadeNatal = "Asrael";
-                        guerreiro.DataNascimento = DateTime.Parse ("03/02/1350");
-                        guerreiro.FerramentaAtaque = "Machados duplos de Guerra";
-                        guerreiro.FerramentaProtecao = "Armadura do Sol ausente";
-                        guerreiro.Forca = 3;
-                        guerreiro.Destreza = 3;
-                        guerreiro.Inteligencia = 2;
-                        guerreiro.Vida = 20;
+
+                        Guerreiro guerreiro = CriarGuerreiro(); /** Personagens Guerreiro **/
 
                         Dragao dragao = new Dragao ();
                         dragao.Nome = "Grigori";
@@ -39,25 +30,18 @@ namespace MateODragao {
                         dragao.Vida = 300;
 
                         /*** INCIO - Primeiro Diálogo ***/
-                        System.Console.WriteLine ($"{guerreiro.Nome.ToUpper()}: {dragao.Nome}, vim a sua procura !! ");
-                        System.Console.WriteLine ($"{dragao.Nome.ToUpper()}: Ora, ora ... Humano. Quem pensas que és ?");
+                        CriarDialogo (guerreiro.Nome, $"{dragao.Nome}, vim a sua procura !!");
+                        CriarDialogo (dragao.Nome, "...");
 
-                        System.Console.WriteLine ();
-                        System.Console.WriteLine ("Aperte Enter para continuar");
-                        Console.ReadLine ();
+                        FinalizarDialogo ();
                         /*** FIM - Primeiro Diálogo ***/
 
                         /*** INICIO - Segundo Diálogo ***/
-                        Console.Clear ();
-                        System.Console.WriteLine ($"{guerreiro.Nome.ToUpper()}: Meu nome é {guerreiro.Nome} {guerreiro.Sobrenome}, vim de {guerreiro.CidadeNatal}, para acabar com seu reinado.");
-                        System.Console.WriteLine ($"{dragao.Nome.ToUpper()}:Hmm!!....");
+                        CriarDialogo (guerreiro.Nome, $"Meu nome é {guerreiro.Nome} {guerreiro.Sobrenome}, vim de {guerreiro.CidadeNatal}, para acabar com seu reinado.");
+                        CriarDialogo (dragao.Nome, "Hmm!!....");
 
-                        System.Console.WriteLine ();
-                        System.Console.WriteLine ("Aperte Enter para continuar");
-                        Console.ReadLine ();
+                        FinalizarDialogo ();
                         /*** FIM - Segundo Diálogo ***/
-                        Console.Clear ();
-
                         bool jogadorAtacaPrimeiro = guerreiro.Destreza > dragao.Destreza ? true : false;
 
                         bool jogadorNaoCorreu = true;
@@ -102,11 +86,9 @@ namespace MateODragao {
                                     System.Console.WriteLine ($"{dragao.Nome.ToUpper()}: Você não é digno");
                                     break;
                             }
-                            System.Console.WriteLine ("Aperte ENTER para proguessir");
-                            Console.ReadLine ();
+                            FinalizarDialogo ();
 
                             while (dragao.Vida > 0 && guerreiro.Vida > 0 && jogadorNaoCorreu) {
-                                Console.Clear ();
                                 System.Console.WriteLine ("***** Turno do Dragão *****");
                                 Random geradorNumeroAleatorio = new Random ();
                                 int numeroAleatoriojogador = geradorNumeroAleatorio.Next (0, 5);
@@ -125,13 +107,8 @@ namespace MateODragao {
                                 } else {
                                     System.Console.WriteLine ($"{guerreiro.Nome.ToUpper()}: Posso fazer isso o dia todo.");
                                 }
-                                System.Console.WriteLine ();
-                                System.Console.WriteLine ("Aperte ENTER para prosseguir");
-                                Console.ReadLine ();
-
+                                FinalizarDialogo ();
                                 /** INICIO - TURNO JOGADOR **/
-                                Console.Clear ();
-
                                 System.Console.WriteLine ("***** Turno do Jogador *****");
                                 System.Console.WriteLine ("Escolha sua ação:");
                                 System.Console.WriteLine (" 1 - ATACAR");
@@ -165,10 +142,7 @@ namespace MateODragao {
                                         if (dragao.Vida <= 0) {
                                             System.Console.WriteLine ("Vitória");
                                         }
-
-                                        System.Console.WriteLine ();
-                                        System.Console.WriteLine ("Aperte Enter para continuar");
-                                        Console.ReadLine ();
+                                        FinalizarDialogo ();
 
                                         break;
                                     case "2":
@@ -177,10 +151,7 @@ namespace MateODragao {
                                         System.Console.WriteLine ($"{dragao.Nome.ToUpper()}: Você não é digno");
                                         break;
                                 }
-
-                                System.Console.WriteLine ();
-                                System.Console.WriteLine ("Aperte ENTER para proguessir");
-                                Console.ReadLine ();
+                                FinalizarDialogo ();
 
                                 /** FIM - TURNO JOGADOR **/
 
@@ -200,6 +171,46 @@ namespace MateODragao {
                 }
             } while (jogadorNaoDesistiu);
 
+        }
+
+        private static void CriarDialogo (string nome, string frase)
+        /** 
+         * !Terceirizando o dialogo do JOGO
+         * TODO 'criar dialogo + nome da variavel + ctrlC/ctrlV frase do jogo' 
+         */
+        {
+            System.Console.WriteLine ($"{nome.ToUpper()}: {frase}");
+        }
+
+        private static void FinalizarDialogo ()
+        /**
+         * !Terceirizando a ação de prosseguir dialogo  do JOGO
+         * TODO copie a informação repetida aqui !!! Não esqueça de declarar no codigo principal o metodo
+         */
+        {
+            System.Console.WriteLine ();
+            System.Console.WriteLine ("Aperte Enter para continuar");
+            Console.ReadLine ();
+            Console.Clear ();
+
+        }
+
+        private static Guerreiro CriarGuerreiro () { /** <= Assinatura do método OU Declaração do Metodos **/
+            Console.ReadLine();
+            
+            Guerreiro guerreiro = new Guerreiro ();
+            guerreiro.Nome = "Vaelin";
+            guerreiro.Sobrenome = "Galahad";
+            guerreiro.CidadeNatal = "Asrael";
+            guerreiro.DataNascimento = DateTime.Parse ("03/02/1350");
+            guerreiro.FerramentaAtaque = "Machados duplos de Guerra";
+            guerreiro.FerramentaProtecao = "Armadura do Sol ausente";
+            guerreiro.Forca = 3;
+            guerreiro.Destreza = 3;
+            guerreiro.Inteligencia = 2;
+            guerreiro.Vida = 20;
+
+            return guerreiro; 
         }
     }
 }
