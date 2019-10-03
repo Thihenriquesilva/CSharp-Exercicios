@@ -15,13 +15,13 @@ namespace ByteBank {
             
             Cliente cliente1 = new Cliente(nome, cpf, email);
 
-            bool senhaOk = false;
+            bool Trocousenha = false;
             do{
                 System.Console.WriteLine("Sua Senha:");
                 string senha = Console.ReadLine();
-                senhaOk = cliente1.TrocaSenha(senha);
+                Trocousenha = cliente1.TrocaSenha(senha);
 
-                if (!senhaOk){
+                if (!Trocousenha){
                     System.Console.WriteLine("Senha não atende aos requisitos");
 
                 }
@@ -29,7 +29,41 @@ namespace ByteBank {
                     System.Console.WriteLine("Senha Trocada com sucesso");
                 }
                 
-            }while(!senhaOk);
+            }while(!Trocousenha);
+
+            /*********
+            *TODO Aula de hoje implementar  com a adição de conta bancanria.
+            *TODO Usado o mesmo método da aula anterior 
+            *********/
+            System.Console.WriteLine("******CONTA BANCARIA*******");
+            System.Console.WriteLine();
+            System.Console.WriteLine();
+            System.Console.Write("Diga sua Agencia:");
+            int agencia = int.Parse(Console.ReadLine());
+            System.Console.Write("Diga sua Conta:");
+            int conta = int.Parse(Console.ReadLine());
+            System.Console.Write("Titular:");
+            string titular = Console.ReadLine();
+
+            bool saldoValido = false;
+            double saldo;
+
+            do{
+                Console.Write("Digite o saldo:");
+                saldo = double.Parse(System.Console.ReadLine());
+                if(saldo >= 0){
+                    saldoValido = true;
+                }
+                else {
+                    System.Console.WriteLine("O saldo não pode ser negativo");
+                }
+            }while(!saldoValido);
+
+            ContaCorrente contaCorrente = new ContaCorrente(agencia, conta, titular);
+            contaCorrente.Saldo = saldo;
+            
+            
+            
 
 
         }

@@ -1,0 +1,11 @@
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfo.cs
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.deps.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.dev.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.pdb
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.pdb
