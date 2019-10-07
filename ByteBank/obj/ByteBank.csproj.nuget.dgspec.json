@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj": {}
+    "C:\\Users\\thi_s\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj": {
+    "C:\\Users\\thi_s\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\thi_s\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
-        "packagesPath": "C:\\Users\\47490086809\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\obj\\",
+        "projectPath": "C:\\Users\\thi_s\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
+        "packagesPath": "C:\\Users\\thi_s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thi_s\\Documents\\CSharp-Exercicios\\ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\47490086809\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\thi_s\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

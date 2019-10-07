@@ -1,0 +1,11 @@
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.csprojAssemblyReference.cache
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.AssemblyInfoInputs.cache
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.AssemblyInfo.cs
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.deps.json
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.runtimeconfig.json
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.runtimeconfig.dev.json
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.dll
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\bin\Debug\netcoreapp2.2\Variaveis.pdb
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.dll
+C:\Users\thi_s\Documents\CSharp-Exercicios\Variaveis\obj\Debug\netcoreapp2.2\Variaveis.pdb
