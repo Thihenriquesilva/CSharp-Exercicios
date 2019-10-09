@@ -17,7 +17,7 @@ namespace TodoList {
             int opcao = 0;
             do{
                 Console.Clear();
-                Console.WriteLine("Todo List");
+                Console.WriteLine("To do List");
                 Console.WriteLine();
                 ListaItens(todoList);
                 Console.WriteLine();

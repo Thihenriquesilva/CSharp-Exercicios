@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
-      "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\Senaizinho\\Senaizinho.csproj",
+      "projectName": "Senaizinho",
+      "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\Senaizinho\\Senaizinho.csproj",
       "packagesPath": "C:\\Users\\47490086809\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\Senaizinho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
