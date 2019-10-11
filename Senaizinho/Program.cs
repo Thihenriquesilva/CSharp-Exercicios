@@ -4,10 +4,9 @@ using System.Collections.Generic;
 namespace Senaizinho {
     class Program {
         static void Main (string[] args) {
-            Aluno alunos = new Aluno()
+                int opcao = 0;
             do {
 
-                int opcao = 0;
                 System.Console.WriteLine ("*******************");
                 System.Console.WriteLine ();
                 System.Console.WriteLine ("CADASTRO SENAIZINHO");
@@ -67,7 +66,6 @@ namespace Senaizinho {
                 }
 
             } while (opcao != 7);
-            return 0;
         }
         
     }

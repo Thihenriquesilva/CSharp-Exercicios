@@ -60,7 +60,8 @@ namespace ByteBank {
             }while(!saldoValido);
 
             ContaCorrente contaCorrente = new ContaCorrente(agencia, conta, cliente1);
-            contaCorrente.Saldo = saldo;
+            contaCorrente.Deposito(saldo);
+            contaCorrente.Saque(saldo);
 
 
             /****** DEPOSITOS, SAQUES E TRANSFERENCIAS ******/
@@ -87,7 +88,7 @@ namespace ByteBank {
             }else{
                 System.Console.WriteLine("Não foi possivel realizar a operação.");
             }
-            System.Console.WriteLine($"Saldo atual: {contaCorrente.Saldo}");
+            System.Console.WriteLine($"Saldo atual: {saldo}");
             System.Console.WriteLine();
 
             Cliente cliente2 = new Cliente("Alexandre","123.321.123 -12","a@a.com");
@@ -106,8 +107,8 @@ namespace ByteBank {
                 System.Console.WriteLine("Operação não pode ser realizada.");
             }
 
-            System.Console.WriteLine($"Saldo origem: {contaCorrente.Saldo}");
-            System.Console.WriteLine($"Saldo destino {contacorrente2.Saldo}");
+            System.Console.WriteLine($"Saldo origem: {contaCorrente.Deposito(saldo)}");
+            System.Console.WriteLine($"Saldo destino {contaCorrente.Deposito(saldo)}");
             
 
         }

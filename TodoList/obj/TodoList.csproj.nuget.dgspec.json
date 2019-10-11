@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\todolist\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\todolist\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\todolist\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\TodoList\\TodoList.csproj",
+        "projectPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\todolist\\TodoList.csproj",
         "packagesPath": "C:\\Users\\47490086809\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\TodoList\\obj\\",
+        "outputPath": "C:\\Users\\47490086809\\Documents\\CSharp-Exercicios\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

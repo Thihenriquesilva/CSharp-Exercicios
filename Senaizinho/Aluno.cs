@@ -1,3 +1,5 @@
+using System;
+
 namespace Senaizinho
 {
     public class Aluno
@@ -10,7 +12,7 @@ namespace Senaizinho
 
 
 
-        public Aluno (string Nome, DataTime DataNascimento, string Curso, int NumeroSala){
+        public Aluno (string Nome, DateTime DataNascimento, string Curso, int NumeroSala){
             this.Nome = Nome;
             this.DataNascimento = DataNascimento;
             this.Curso = Curso;
