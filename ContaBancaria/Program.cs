@@ -19,7 +19,7 @@ namespace ContaBancaria
             int numero = int.Parse(Console.ReadLine());
             
 
-            DadosBancarios dados1 = new DadosBancarios(titular, agencia, numero);
+            DadosBancarios dados1 = new DadosBancarios(agencia, numero, titular);
 
             bool Saldonegativo = false;
 

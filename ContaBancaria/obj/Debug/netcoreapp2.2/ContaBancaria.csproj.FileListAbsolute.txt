@@ -9,3 +9,14 @@ C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcore
 C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.pdb
 C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.dll
 C:\Users\47490086809\Documents\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.deps.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\bin\Debug\netcoreapp2.2\ContaBancaria.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp-Exercicios\ContaBancaria\obj\Debug\netcoreapp2.2\ContaBancaria.pdb
