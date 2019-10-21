@@ -1,10 +1,14 @@
+﻿using System;
+using EscolaDeRock.Interfaces;
+
 namespace EscolaDeRock.Models
 {
     public class Tambores : InstrumentoMusical, IPercussao
     {
-        bool ManterRitmo(){
-        Console.WriteLine("Mantendo o ritmo dos Tambores.");
-        return true;
+        public bool ManterRitmo()
+        {
+            Console.WriteLine("Mantendo ritmo dos Tambores");
+            return true;
         }
     }
 }

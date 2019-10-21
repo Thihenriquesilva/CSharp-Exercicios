@@ -1,14 +1,15 @@
-using System;
-using System.Colletction.Generic;
-using System.Text;
-using EscolaDeRock.Interface;
+﻿using System;
+using EscolaDeRock.Interfaces;
 
-namespace EscolaDeRock.Models {
-        public class Bateria : InstrumentoMusical, IPercussao
+
+namespace EscolaDeRock.Models
+{
+    public class Bateria : InstrumentoMusical,IPercussao
+    {
+        public bool ManterRitmo()
         {
-            public bool ManterRitmo () {
-                Console.WriteLine ("Mantendo o ritmo da Bateria.");
-                return true;
-            }
+            Console.WriteLine("Mantendo ritmo da Bateria.");
+            return true;
         }
+    }
 }
