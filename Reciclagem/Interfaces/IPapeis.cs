@@ -2,6 +2,6 @@ namespace Reciclagem
 {
     public interface IPapeis
     {
-         bool Papel();
+        bool Papel();
     }
 }

@@ -187,6 +187,7 @@ namespace EscolaDeRock
                             else
                             {
                                 Console.WriteLine("O instrumento selecionado não é de Harmonia.");
+                                vagas =2;
                                 continue;
                             }
 
@@ -219,6 +220,7 @@ namespace EscolaDeRock
                             else
                             {
                                 Console.WriteLine("O instrumento selecionado não é de Melodia.");
+                                vagas =2;
                                 continue;
                             }
 
