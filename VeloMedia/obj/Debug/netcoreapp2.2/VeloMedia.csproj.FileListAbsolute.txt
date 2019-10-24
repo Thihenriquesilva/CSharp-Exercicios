@@ -1,0 +1,11 @@
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.AssemblyInfo.cs
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\bin\Debug\netcoreapp2.2\VeloMedia.deps.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\bin\Debug\netcoreapp2.2\VeloMedia.runtimeconfig.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\bin\Debug\netcoreapp2.2\VeloMedia.runtimeconfig.dev.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\bin\Debug\netcoreapp2.2\VeloMedia.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\bin\Debug\netcoreapp2.2\VeloMedia.pdb
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\VeloMedia\obj\Debug\netcoreapp2.2\VeloMedia.pdb

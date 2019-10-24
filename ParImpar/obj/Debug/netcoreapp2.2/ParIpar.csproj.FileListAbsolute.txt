@@ -1,0 +1,15 @@
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParIpar\obj\Debug\netcoreapp2.2\ParIpar.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParIpar\obj\Debug\netcoreapp2.2\ParIpar.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParIpar\obj\Debug\netcoreapp2.2\ParIpar.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParIpar\obj\Debug\netcoreapp2.2\ParIpar.AssemblyInfo.cs
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\bin\Debug\netcoreapp2.2\ParIpar.deps.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\bin\Debug\netcoreapp2.2\ParIpar.runtimeconfig.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\bin\Debug\netcoreapp2.2\ParIpar.runtimeconfig.dev.json
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\bin\Debug\netcoreapp2.2\ParIpar.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\bin\Debug\netcoreapp2.2\ParIpar.pdb
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.AssemblyInfo.cs
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.dll
+C:\Users\47490086809\Documents\CSharp-Exercicios\ParImpar\obj\Debug\netcoreapp2.2\ParIpar.pdb
