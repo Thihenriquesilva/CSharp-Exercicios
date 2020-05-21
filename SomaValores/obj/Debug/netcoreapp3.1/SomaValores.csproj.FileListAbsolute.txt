@@ -1,0 +1,11 @@
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.exe
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.deps.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\bin\Debug\netcoreapp3.1\SomaValores.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\obj\Debug\netcoreapp3.1\SomaValores.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\obj\Debug\netcoreapp3.1\SomaValores.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\obj\Debug\netcoreapp3.1\SomaValores.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\obj\Debug\netcoreapp3.1\SomaValores.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\SomaValores\obj\Debug\netcoreapp3.1\SomaValores.pdb

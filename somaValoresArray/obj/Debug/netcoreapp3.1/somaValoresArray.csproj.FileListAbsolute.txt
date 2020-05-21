@@ -1,0 +1,11 @@
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\obj\Debug\netcoreapp3.1\somaValoresArray.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\obj\Debug\netcoreapp3.1\somaValoresArray.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\obj\Debug\netcoreapp3.1\somaValoresArray.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.exe
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.deps.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\bin\Debug\netcoreapp3.1\somaValoresArray.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\obj\Debug\netcoreapp3.1\somaValoresArray.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somaValoresArray\obj\Debug\netcoreapp3.1\somaValoresArray.pdb

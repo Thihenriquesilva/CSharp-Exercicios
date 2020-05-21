@@ -1,0 +1,11 @@
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.exe
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.deps.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\bin\Debug\netcoreapp3.1\somarImposto.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\obj\Debug\netcoreapp3.1\somarImposto.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\obj\Debug\netcoreapp3.1\somarImposto.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\obj\Debug\netcoreapp3.1\somarImposto.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\obj\Debug\netcoreapp3.1\somarImposto.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\somarImposto\obj\Debug\netcoreapp3.1\somarImposto.pdb

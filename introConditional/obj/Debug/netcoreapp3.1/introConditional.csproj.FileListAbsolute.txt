@@ -1,0 +1,13 @@
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.exe
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.deps.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\bin\Debug\netcoreapp3.1\introConditional.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.dll
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.pdb
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\CSharp\introConditional\obj\Debug\netcoreapp3.1\introConditional.genruntimeconfig.cache
